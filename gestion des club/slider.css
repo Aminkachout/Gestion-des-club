@@ -1,0 +1,9 @@
+#slid {
+	position: absolute;
+	margin-left: 10%;
+	margin-top: 5%;
+	border-color: grey;
+
+	
+	z-index: 1;
+}

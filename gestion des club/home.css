@@ -1,0 +1,28 @@
+#d {
+	margin: 20px 0px 0px 20px;
+	border:10px solid grey;
+	border-radius: 10%;
+}
+
+
+
+
+li  article  img {
+	border-radius: 0px;
+	position: relative;
+	margin: 20px 0px 0px 50px ;
+	width: 500px;
+}
+#file {
+	border-color: transparent; 
+	background-color: transparent;
+	width: 50px;
+	cursor: pointer;
+	position: absolute;
+	margin-top: -100px;
+}
+#submit {
+	position: absolute;
+	margin-top: -80px;
+
+}
